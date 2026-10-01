@@ -1,3 +1,61 @@
+████████████████████████████████████
+
+          PARK KANG WON
+      AI PRODUCT BUILDER
+
+  Building AI × Web × IoT Products
+
+        ↓ typing animation ↓
+
+  AI Developer █
+  Full Stack Developer █
+  IoT Developer █
+  Product Builder █
+
+────────────────────────────────────
+
+              ABOUT ME
+
+       🤖 AI     🌐 WEB
+       ⚡ IoT    🚀 SaaS
+
+────────────────────────────────────
+
+             TECH UNIVERSE
+
+   Python  Java  React  Next.js
+   OpenAI  Gemini  Supabase
+   AWS     Docker  ESP32
+
+────────────────────────────────────
+
+          FEATURED PROJECTS
+
+   🛒 WeMarket
+   🤖 AI Assistant
+   📊 Ad Automation
+   🌱 Smart Farm
+
+────────────────────────────────────
+
+             GITHUB LAB
+
+       📊 GitHub Statistics
+
+       🔥 Contribution Streak
+
+       📈 Activity Graph
+
+
+🐍  ■■■■■■■■■■■■■■■■■■■■■■■■■■
+       Contribution Snake
+
+────────────────────────────────────
+
+        LET'S BUILD SOMETHING
+
+             Seoul 🇰🇷
+
 # 👋 안녕하세요, 박강원입니다.
 
 ### AI Developer · Full Stack · IoT Developer
